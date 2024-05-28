@@ -24,3 +24,7 @@ Using "**W,A,S,D**" keys on 2 dimensional plane.
 ## Feedback
 
 Your feedback is very important to me. Please feel free to reach out with any comments, questions, or suggestions.
+
+## Thanks
+
+I would like to thank my friend and colleague Berker Topaluglu who helped me come up with this idea.
